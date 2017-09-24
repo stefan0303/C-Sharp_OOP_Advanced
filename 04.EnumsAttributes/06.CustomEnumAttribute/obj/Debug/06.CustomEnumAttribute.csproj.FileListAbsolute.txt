@@ -1,0 +1,1 @@
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\05.C# OOP Advance\04.EnumsAttributes\06.CustomEnumAttribute\bin\Debug\06.CustomEnumAttribute.exe.config

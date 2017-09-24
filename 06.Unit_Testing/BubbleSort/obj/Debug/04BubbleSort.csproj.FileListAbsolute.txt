@@ -1,0 +1,6 @@
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\05.C# OOP Advance\06.Unit_Testing\BubbleSort\bin\Debug\BubbleSort.exe.config
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\05.C# OOP Advance\06.Unit_Testing\BubbleSort\bin\Debug\BubbleSort.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\05.C# OOP Advance\06.Unit_Testing\BubbleSort\bin\Debug\BubbleSort.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\05.C# OOP Advance\06.Unit_Testing\BubbleSort\obj\Debug\04BubbleSort.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\05.C# OOP Advance\06.Unit_Testing\BubbleSort\obj\Debug\BubbleSort.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\05.C# OOP Advance\06.Unit_Testing\BubbleSort\obj\Debug\BubbleSort.pdb

@@ -1,0 +1,5 @@
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\05.C# OOP Advance\01.InterfacesAndAbstraction\05.BorderControl\bin\Debug\05.BorderControl.exe.config
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\05.C# OOP Advance\01.InterfacesAndAbstraction\05.BorderControl\bin\Debug\05.BorderControl.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\05.C# OOP Advance\01.InterfacesAndAbstraction\05.BorderControl\bin\Debug\05.BorderControl.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\05.C# OOP Advance\01.InterfacesAndAbstraction\05.BorderControl\obj\Debug\05.BorderControl.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\05.C# OOP Advance\01.InterfacesAndAbstraction\05.BorderControl\obj\Debug\05.BorderControl.pdb

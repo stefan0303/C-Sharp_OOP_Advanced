@@ -1,0 +1,6 @@
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\05.C# OOP Advance\04.EnumsAttributes\11.InfernoInfinity\bin\Debug\11.InfernoInfinity.exe.config
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\05.C# OOP Advance\04.EnumsAttributes\11.InfernoInfinity\bin\Debug\11.InfernoInfinity.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\05.C# OOP Advance\04.EnumsAttributes\11.InfernoInfinity\bin\Debug\11.InfernoInfinity.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\05.C# OOP Advance\04.EnumsAttributes\11.InfernoInfinity\obj\Debug\11.InfernoInfinity.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\05.C# OOP Advance\04.EnumsAttributes\11.InfernoInfinity\obj\Debug\11.InfernoInfinity.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\05.C# OOP Advance\04.EnumsAttributes\11.InfernoInfinity\obj\Debug\11.InfernoInfinity.pdb

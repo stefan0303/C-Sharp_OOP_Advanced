@@ -1,0 +1,1 @@
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\05.C# OOP Advance\03.Iterators_And_Comparators\05.ComparingObjects\bin\Debug\05.ComparingObjects.exe.config

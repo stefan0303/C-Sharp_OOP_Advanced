@@ -1,0 +1,2 @@
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\05.C# OOP Advance\02.Generics\02.Generic\bin\Debug\02.Generic.exe.config
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\05.C# OOP Advance\02.Generics\bin\Debug\02.Generic.exe.config

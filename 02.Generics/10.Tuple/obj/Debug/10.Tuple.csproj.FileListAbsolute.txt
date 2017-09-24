@@ -1,0 +1,1 @@
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\05.C# OOP Advance\02.Generics\10.Tuple\bin\Debug\10.Tuple.exe.config

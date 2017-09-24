@@ -1,0 +1,12 @@
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Advanced\01.InterfacesAndAbstraction\InterfacesAbstractionExercise\04.Telephony\bin\Debug\04.Telephony.exe.config
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Advanced\01.InterfacesAndAbstraction\InterfacesAbstractionExercise\04.Telephony\bin\Debug\04.Telephony.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Advanced\01.InterfacesAndAbstraction\InterfacesAbstractionExercise\04.Telephony\bin\Debug\04.Telephony.pdb
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Advanced\01.InterfacesAndAbstraction\InterfacesAbstractionExercise\04.Telephony\obj\Debug\04.Telephony.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Advanced\01.InterfacesAndAbstraction\InterfacesAbstractionExercise\04.Telephony\obj\Debug\04.Telephony.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Advanced\01.InterfacesAndAbstraction\InterfacesAbstractionExercise\04.Telephony\obj\Debug\04.Telephony.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\05.C# OOP Advance\01.InterfacesAndAbstraction\04.Telephony\bin\Debug\04.Telephony.exe.config
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\05.C# OOP Advance\01.InterfacesAndAbstraction\04.Telephony\obj\Debug\04.Telephony.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\05.C# OOP Advance\01.InterfacesAndAbstraction\04.Telephony\obj\Debug\04.Telephony.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\05.C# OOP Advance\01.InterfacesAndAbstraction\04.Telephony\bin\Debug\04.Telephony.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\05.C# OOP Advance\01.InterfacesAndAbstraction\04.Telephony\bin\Debug\04.Telephony.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\05.C# OOP Advance\01.InterfacesAndAbstraction\04.Telephony\obj\Debug\04.Telephony.csprojResolveAssemblyReference.cache

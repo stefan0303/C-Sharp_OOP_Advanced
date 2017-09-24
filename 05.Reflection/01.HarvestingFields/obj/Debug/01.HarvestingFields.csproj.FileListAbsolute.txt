@@ -1,0 +1,6 @@
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\05.C# OOP Advance\05.Reflection\01.HarvestingFields\bin\Debug\01.HarvestingFields.exe.config
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\05.C# OOP Advance\05.Reflection\01.HarvestingFields\obj\Debug\01.HarvestingFields.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\05.C# OOP Advance\05.Reflection\01.HarvestingFields\bin\Debug\01.HarvestingFields.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\05.C# OOP Advance\05.Reflection\01.HarvestingFields\bin\Debug\01.HarvestingFields.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\05.C# OOP Advance\05.Reflection\01.HarvestingFields\obj\Debug\01.HarvestingFields.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\05.C# OOP Advance\05.Reflection\01.HarvestingFields\obj\Debug\01.HarvestingFields.pdb

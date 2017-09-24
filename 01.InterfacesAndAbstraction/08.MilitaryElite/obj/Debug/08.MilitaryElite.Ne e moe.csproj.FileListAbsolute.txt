@@ -1,0 +1,7 @@
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Advanced\01.InterfacesAndAbstraction\InterfacesAbstractionExercise\08.MilitaryElite\bin\Debug\08.MilitaryElite.exe.config
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\05.C# OOP Advance\01.InterfacesAndAbstraction\08.MilitaryElite\bin\Debug\08.MilitaryElite.exe.config
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\05.C# OOP Advance\01.InterfacesAndAbstraction\08.MilitaryElite\obj\Debug\08.MilitaryElite.Ne e moe.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\05.C# OOP Advance\01.InterfacesAndAbstraction\08.MilitaryElite\bin\Debug\08.MilitaryElite.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\05.C# OOP Advance\01.InterfacesAndAbstraction\08.MilitaryElite\bin\Debug\08.MilitaryElite.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\05.C# OOP Advance\01.InterfacesAndAbstraction\08.MilitaryElite\obj\Debug\08.MilitaryElite.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\05.C# OOP Advance\01.InterfacesAndAbstraction\08.MilitaryElite\obj\Debug\08.MilitaryElite.pdb

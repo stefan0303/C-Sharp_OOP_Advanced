@@ -1,0 +1,6 @@
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\05.C# OOP Advance\02.Generics\01.GenericBoxOfString\bin\Debug\01.GenericBoxOfString.exe.config
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\05.C# OOP Advance\02.Generics\01.GenericBoxOfString\bin\Debug\01.GenericBoxOfString.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\05.C# OOP Advance\02.Generics\01.GenericBoxOfString\bin\Debug\01.GenericBoxOfString.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\05.C# OOP Advance\02.Generics\01.GenericBoxOfString\obj\Debug\01.GenericBoxOfString.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\05.C# OOP Advance\02.Generics\01.GenericBoxOfString\obj\Debug\01.GenericBoxOfString.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\05.C# OOP Advance\02.Generics\01.GenericBoxOfString\obj\Debug\01.GenericBoxOfString.pdb

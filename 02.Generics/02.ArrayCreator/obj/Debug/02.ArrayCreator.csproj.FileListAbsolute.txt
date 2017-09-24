@@ -1,0 +1,6 @@
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\05.C# OOP Advance\02.Generics\02.ArrayCreator\bin\Debug\02.ArrayCreator.exe.config
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\05.C# OOP Advance\02.Generics\02.ArrayCreator\bin\Debug\02.ArrayCreator.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\05.C# OOP Advance\02.Generics\02.ArrayCreator\bin\Debug\02.ArrayCreator.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\05.C# OOP Advance\02.Generics\02.ArrayCreator\obj\Debug\02.ArrayCreator.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\05.C# OOP Advance\02.Generics\02.ArrayCreator\obj\Debug\02.ArrayCreator.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\05.C# OOP Advance\02.Generics\02.ArrayCreator\obj\Debug\02.ArrayCreator.pdb

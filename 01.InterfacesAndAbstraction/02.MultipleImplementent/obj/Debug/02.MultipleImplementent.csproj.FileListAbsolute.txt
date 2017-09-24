@@ -1,0 +1,5 @@
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\05.C# OOP Advance\01.InterfacesAndAbstraction\02.MultipleImplementent\bin\Debug\02.MultipleImplementent.exe.config
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\05.C# OOP Advance\01.InterfacesAndAbstraction\02.MultipleImplementent\bin\Debug\02.MultipleImplementent.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\05.C# OOP Advance\01.InterfacesAndAbstraction\02.MultipleImplementent\bin\Debug\02.MultipleImplementent.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\05.C# OOP Advance\01.InterfacesAndAbstraction\02.MultipleImplementent\obj\Debug\02.MultipleImplementent.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\05.C# OOP Advance\01.InterfacesAndAbstraction\02.MultipleImplementent\obj\Debug\02.MultipleImplementent.pdb
