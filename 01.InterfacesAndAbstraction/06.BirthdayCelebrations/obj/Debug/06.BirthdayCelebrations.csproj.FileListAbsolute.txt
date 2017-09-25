@@ -1,6 +1,0 @@
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\05.C# OOP Advance\01.InterfacesAndAbstraction\06.BirthdayCelebrations\bin\Debug\06.BirthdayCelebrations.exe.config
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\05.C# OOP Advance\01.InterfacesAndAbstraction\06.BirthdayCelebrations\bin\Debug\06.BirthdayCelebrations.exe
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\05.C# OOP Advance\01.InterfacesAndAbstraction\06.BirthdayCelebrations\bin\Debug\06.BirthdayCelebrations.pdb
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\05.C# OOP Advance\01.InterfacesAndAbstraction\06.BirthdayCelebrations\obj\Debug\06.BirthdayCelebrations.csprojResolveAssemblyReference.cache
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\05.C# OOP Advance\01.InterfacesAndAbstraction\06.BirthdayCelebrations\obj\Debug\06.BirthdayCelebrations.exe
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\05.C# OOP Advance\01.InterfacesAndAbstraction\06.BirthdayCelebrations\obj\Debug\06.BirthdayCelebrations.pdb

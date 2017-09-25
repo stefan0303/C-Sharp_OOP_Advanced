@@ -1,5 +1,0 @@
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\05.C# OOP Advance\03.Iterators_And_Comparators\03.Stack\bin\Debug\03.Stack.exe.config
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\05.C# OOP Advance\03.Iterators_And_Comparators\03.Stack\bin\Debug\03.Stack.exe
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\05.C# OOP Advance\03.Iterators_And_Comparators\03.Stack\bin\Debug\03.Stack.pdb
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\05.C# OOP Advance\03.Iterators_And_Comparators\03.Stack\obj\Debug\03.Stack.exe
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\05.C# OOP Advance\03.Iterators_And_Comparators\03.Stack\obj\Debug\03.Stack.pdb

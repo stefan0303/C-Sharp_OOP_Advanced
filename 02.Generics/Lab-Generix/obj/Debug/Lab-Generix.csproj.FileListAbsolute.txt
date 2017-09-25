@@ -1,6 +1,0 @@
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Advanced\02.Generics\Lab\Lab-Generix\bin\Debug\Lab-Generix.exe.config
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Advanced\02.Generics\Lab\Lab-Generix\bin\Debug\Lab-Generix.exe
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Advanced\02.Generics\Lab\Lab-Generix\bin\Debug\Lab-Generix.pdb
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Advanced\02.Generics\Lab\Lab-Generix\obj\Debug\Lab-Generix.csprojResolveAssemblyReference.cache
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Advanced\02.Generics\Lab\Lab-Generix\obj\Debug\Lab-Generix.exe
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Advanced\02.Generics\Lab\Lab-Generix\obj\Debug\Lab-Generix.pdb

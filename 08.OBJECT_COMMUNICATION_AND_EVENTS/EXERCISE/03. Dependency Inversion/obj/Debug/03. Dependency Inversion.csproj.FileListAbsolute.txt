@@ -1,1 +1,0 @@
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\05.C# OOP Advance\08.OBJECT_COMMUNICATION_AND_EVENTS\EXERCISE\03. Dependency Inversion\bin\Debug\_03.Dependency_Inversion.exe.config

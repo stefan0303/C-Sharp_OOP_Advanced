@@ -1,6 +1,0 @@
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Advanced\02.Generics\Lab\Lab-Generix\bin\Debug\Lab-Generix.exe.config
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Advanced\02.Generics\Lab\Lab-Generix\obj\Debug\Lab-Generix.exe
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Advanced\02.Generics\Lab\Lab-Generix\obj\Debug\Lab-Generix.pdb
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\05.C# OOP Advance\02.Generics\Lab-Generix\bin\Debug\Lab-Generix.exe.config
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\05.C# OOP Advance\02.Generics\Lab-Generix\obj\Debug\Lab-Generix.exe
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\05.C# OOP Advance\02.Generics\Lab-Generix\obj\Debug\Lab-Generix.pdb
